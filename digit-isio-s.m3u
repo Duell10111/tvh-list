@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png",Das Erste HD
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="SAT-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png",Das Erste HD
 http://192.168.188.36:9100/livevideo/video/Lidx4/Pidx263/Das_Erste_HD.ts
+#EXTINF:-1 tvg-name="Prosieben" tvg-id="Prosieben" group-title="SAT-DE",Prosieben
+http://192.168.188.36:9100/livevideo/video/Lidx7/Pidx412/ProSieben.ts
