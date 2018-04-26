@@ -3,3 +3,15 @@
 http://192.168.188.36:9100/livevideo/video/Lidx4/Pidx263/Das_Erste_HD.ts
 #EXTINF:-1 tvg-name="Prosieben" tvg-id="Prosieben" group-title="SAT-DE",Prosieben
 http://192.168.188.36:9100/livevideo/video/Lidx7/Pidx412/ProSieben.ts
+#EXTINF:-1 tvg-name="Sat.1" tvg-id="Sat.1" group-title="SAT-DE",Sat.1
+http://192.168.188.36:9100/livevideo/video/Lidx4/Pidx411/SAT.1.ts
+#EXTINF:-1 tvg-name="Kabel eins" tvg-id="Kabel eins" group-title="SAT-DE",Kabel eins
+http://192.168.188.36:9100/livevideo/video/Lidx4/Pidx413/kabel_eins.ts
+#EXTINF:-1 tvg-name="Sixx" tvg-id="Sixx" group-title="SAT-DE",Sixx
+http://192.168.188.36:9100/livevideo/video/Lidx4/Pidx1229/SIXX.ts
+#EXTINF:-1 tvg-name="Sport 1" tvg-id="Sport 1" group-title="SAT-DE",Sport 1
+http://192.168.188.36:9100/livevideo/video/Lidx7/Pidx407/SPORT1.ts
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon" group-title="SAT-DE",Nickelodeon
+http://192.168.188.36:9100/livevideo/video/Lidx4/Pidx582/Nickelodeon.ts
+#EXTINF:-1 tvg-name="Eurosport" tvg-id="Eurosport" group-title="SAT-DE",Eurosport
+http://192.168.188.36:9100/livevideo/video/Lidx7/Pidx1668/EUROSPORT.ts
