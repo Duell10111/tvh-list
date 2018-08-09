@@ -15,3 +15,5 @@ http://192.168.188.36:9100/livevideo/video/Lidx7/Pidx407/SPORT1.ts
 http://192.168.188.36:9100/livevideo/video/Lidx4/Pidx582/Nickelodeon.ts
 #EXTINF:-1 tvg-name="Eurosport" tvg-id="Eurosport" group-title="SAT-DE",Eurosport
 http://192.168.188.36:9100/livevideo/video/Lidx4/Pidx644/Eurosport_1_Deutschland.ts
+#EXTINF:-1 tvg-name="Sat.1 Gold" tvg-id="Sat.1 Gold" group-title="SAT-DE",Sat.1 Gold
+http://192.168.188.36:9100/livevideo/video/Lidx4/Pidx415/SAT.1_Gold.ts
