@@ -19,3 +19,5 @@ http://192.168.188.36:9100/livevideo/video/Lidx4/Pidx644/Eurosport_1_Deutschland
 http://192.168.188.36:9100/livevideo/video/Lidx4/Pidx415/SAT.1_Gold.ts
 #EXTINF:-1 tvg-name="RTL" tvg-id="RTL" group-title="SAT-DE",RTL
 http://192.168.188.36:9100/livevideo/video/Lidx4/Pidx620/RTL.ts
+#EXTINF:-1 tvg-name="RTL2" tvg-id="RTL2" group-title="SAT-DE",RTL
+http://192.168.188.36:9100/livevideo/video/Lidx4/Pidx611/RTL2.ts
