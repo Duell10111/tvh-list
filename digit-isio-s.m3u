@@ -21,3 +21,5 @@ http://192.168.188.36:9100/livevideo/video/Lidx4/Pidx415/SAT.1_Gold.ts
 http://192.168.188.36:9100/livevideo/video/Lidx4/Pidx620/RTL.ts
 #EXTINF:-1 tvg-name="RTL2" tvg-id="RTL2" group-title="SAT-DE",RTL2
 http://192.168.188.36:9100/livevideo/video/Lidx4/Pidx611/RTL2.ts
+#EXTINF:-1 tvg-name="Disney Channel" tvg-id="Disney Channel" group-title="SAT-DE",Disney Channel
+http://192.168.188.36:9100/livevideo/video/Lidx7/Pidx386/Disney_Channel.ts
